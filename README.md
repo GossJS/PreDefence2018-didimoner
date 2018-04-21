@@ -3,7 +3,8 @@
 
 * ссылка на гугл-док c текстом ВКР, расшаренный для ilia.gossoudarev@gmail.com  
 [Текст ВКР на гуглдоках](https://docs.google.com/document/d/1vCnfZ--jHeulw-p_gtzk4yZes7B6uzKrOIgq_eiwogg/edit?usp=sharing)
-* ccылка на ролик в youtube с кратким (5 минут) представлением результатов ВКР по слайдам (слайдкаст)
+* ccылка на ролик в youtube с кратким (5 минут) представлением результатов ВКР по слайдам (слайдкаст)  
+[Слайдкаст](https://youtu.be/oiT0dj2C27k)
 * PDF и/или shower со слайдами  
 PDF в репозитории, ниже ссылка на гуглслайды  
 [Презентация на гуглслайдах](https://docs.google.com/presentation/d/1TboHftkrIOhxqYBpDsmop33VEEAnYY9E7a8-uUz894k/edit?usp=sharing)
