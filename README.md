@@ -1,11 +1,11 @@
 # PreDefence2018
 Для репозиториев с материалами предзащиты.
 
-* ссылка на гугл-док c текстом ВКР, расшаренный для ilia.gossoudarev@gmail.com
+* ссылка на гугл-док c текстом ВКР, расшаренный для ilia.gossoudarev@gmail.com  
 [Текст ВКР на гуглдоках](https://docs.google.com/document/d/1vCnfZ--jHeulw-p_gtzk4yZes7B6uzKrOIgq_eiwogg/edit?usp=sharing)
 * ccылка на ролик в youtube с кратким (5 минут) представлением результатов ВКР по слайдам (слайдкаст)
-* PDF и/или shower со слайдами
-PDF в репозитории, ниже ссылка на гуглслайды
+* PDF и/или shower со слайдами  
+PDF в репозитории, ниже ссылка на гуглслайды  
 [Презентация на гуглслайдах](https://docs.google.com/presentation/d/1TboHftkrIOhxqYBpDsmop33VEEAnYY9E7a8-uUz894k/edit?usp=sharing)
 * 2-3 вопроса, которые, как вы предполагаете, вам логично задать и проекты ответов на них
 
