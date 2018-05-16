@@ -2,7 +2,7 @@
 Для репозиториев с материалами предзащиты.
 
 * ссылка на гугл-док c текстом ВКР, расшаренный для ilia.gossoudarev@gmail.com  
-[Текст ВКР на гуглдоках](https://docs.google.com/document/d/1tTB4Ja3uPAqMXg6Iq1V6AYiQAFNYhFoRTkw4fc7Ls2k/edit?usp=sharing)
+[Текст ВКР на гуглдоках](https://docs.google.com/document/d/1watUpCMhw2oF7tA9ypWb8CyQYKsIJ5YF1cNg3W2PAm4/edit?usp=sharing)
 * ccылка на ролик в youtube с кратким (5 минут) представлением результатов ВКР по слайдам (слайдкаст)  
 [Слайдкаст](https://youtu.be/oiT0dj2C27k)
 * PDF и/или shower со слайдами  
